@@ -1,0 +1,14 @@
+
+audio_path: './tram-vienna-285-8617.wav'
+model_path: './ACL_alpha0.3_best.pth'
+
+
+fmax:  10500
+fmin: 50
+fs: 22050
+hop_length_samples: 220
+n_fft: 2048
+n_mels: 96
+patch_hop: 50
+patch_len: 101
+win_length_samples: 660
